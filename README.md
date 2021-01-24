@@ -8,3 +8,5 @@
 - 😄 Pronouns: HE/His
 - ⚡ Fun fact: The Firefox logo isn’t a fox.
 -->🔭 I’m currently working on it
+
+<img src="https://github-readme-stats.vercel.app/api?username=HarshRajMIshra1995&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
