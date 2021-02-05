@@ -10,3 +10,4 @@
 -->🔭 I’m currently working on it
 
 <img src="https://github-readme-stats.vercel.app/api?username=HarshRajMIshra1995&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
