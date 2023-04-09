@@ -1,8 +1,8 @@
 <img src="header_sn.svg"></img>
 
 
-- 🌱 I’m currently learning JavaSript for Full stack Development
-- 👯 I’m looking to collaborate on My github.
+- 🌱 I’m currently learning Full Stacks.
+- 👯 I’m looking to work with MERN Stacks Projects.
 - 💬 Ask me about  JavaScript | ExpressJs | NodeJS | Rest Apis Routes | JWT | OAuth | MernStack | PernStack | MongoDb | Postgresql | PostMan | Nginx | Docker |Jest
 - 📫 How to reach me: [MyLinkedInPage](https://www.linkedin.com/in/harsh-raj-mishra-48aa98148/)
 - 😄 Pronouns: He/His
